@@ -5,7 +5,7 @@
 [![License: GPLv3.0](https://img.shields.io/badge/License-GPLv3.0-blue.svg)](https://github.com/Mityushin/Responder/blob/master/LICENSE)
 
 #### Requires:
-* [JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-2133151.html)
 * (optional) [Docker](https://www.docker.com/)
 
 -------------
